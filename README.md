@@ -1,9 +1,12 @@
 # react-native-picker
 
-[![npm version](https://img.shields.io/npm/v/react-native-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-picker) <a href="https://david-dm.org/beefe/react-native-picker"><img src="https://david-dm.org/beefe/react-native-picker.svg?style=flat-square" alt="dependency status"></a>   
-
-![ui3](./doc/ui3.jpg)
-![ui4](./doc/ui4.jpg)
+# Use Case
+- 可以支持联动选择，已经日期选择和时分秒的选择,
+  
+# Effect Picture
+  - 选择效果
+  
+<a><img width="200" src="./picker.png"></a>
 
 ### Documentation
 
